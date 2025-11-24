@@ -1,0 +1,19 @@
+# Requirements for Card Recognition System
+# Sistema de Reconocimiento de Cartas - Visión Artificial
+# Autor: [Tu Nombre]
+# Fecha: Noviembre 2025
+
+# Core dependencies
+opencv-python>=4.5.0
+numpy>=1.20.0
+pandas>=1.3.0
+
+# Optional: Para mejor visualización y análisis
+# matplotlib>=3.3.0
+# seaborn>=0.11.0
+
+# Notas de instalación:
+# pip install -r requirements.txt
+# 
+# Si tienes problemas con opencv-python, prueba:
+# pip install opencv-python-headless>=4.5.0
