@@ -9,10 +9,6 @@ Uso:
 
 Requisitos:
     pip install opencv-python numpy pandas
-
-Autor: [Tu nombre]
-Fecha: 2025
-Examen Parcial - Visión Artificial
 """
 import os
 import cv2
@@ -473,4 +469,5 @@ Ejemplos de uso:
 
 
 if __name__ == "__main__":
+
     main()
