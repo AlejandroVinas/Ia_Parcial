@@ -1,0 +1,16 @@
+filename,expected_cards
+test001.jpg,A-hearts
+test002.jpg,K-spades
+test003.jpg,Q-diamonds
+test004.jpg,J-clubs
+test005.jpg,10-hearts
+test006.jpg,9-spades
+test007.jpg,8-diamonds
+test008.jpg,7-clubs
+test009.jpg,6-hearts
+test010.jpg,5-spades
+test011.jpg,A-hearts,K-spades
+test012.jpg,Q-diamonds,J-clubs,10-hearts
+test013.jpg,2-spades,3-diamonds,4-clubs,5-hearts
+test014.jpg,A-diamonds,10-clubs
+test015.jpg,K-hearts,Q-spades,J-diamonds
